@@ -1,0 +1,22 @@
+SMAP
+welcomestore_jsp.java
+JSP
+*S JSP
+*F
++ 0 welcomestore.jsp
+welcomestore.jsp
++ 1 storeheader.jsp
+includes/storeheader.jsp
++ 2 storeslistt.jsp
+storeslistt.jsp
++ 3 footer.jsp
+includes/footer.jsp
+*L
+1,12:51
+1#1,49:63
+12#0,3:111
+1#2,21:114
+14#0,90:134
+1#3,4:223
+103#0:226
+*E

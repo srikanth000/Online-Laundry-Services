@@ -1,0 +1,22 @@
+SMAP
+demo_jsp.java
+JSP
+*S JSP
+*F
++ 0 demo.jsp
+demo.jsp
++ 1 header.jsp
+includes/header.jsp
++ 2 adminlistt.jsp
+includes/adminlistt.jsp
++ 3 footer.jsp
+includes/footer.jsp
+*L
+1,23:52
+1#1,47:75
+23#0,3:121
+1#2,26:124
+25#0,9:149
+1#3,4:157
+33#0:160
+*E

@@ -1,0 +1,63 @@
+.pagination ul li.inactive, #container .pagination ul li.inactive:hover {
+	color:#bababa;
+	cursor: default;
+}
+.pagination {
+	height:auto;
+	width:auto;
+	display: table;
+	margin:0 auto;
+	/*background-color:#00C3F8;*/
+	}
+.pagination ul{
+margin:0px;
+padding:0px;	
+}
+.pagination ul li {
+	list-style: none;
+	float: left;
+	border: 1px solid #006699;
+	padding:2px 3px;
+    margin:5px 3px 5px 3px;
+	display:inline-block;
+	font-family: arial;
+	font-size: 13px;
+	color: #006699;
+	font-weight: bold;
+}
+.pagination ul li:hover {
+	color: #fff;
+	background-color: #006699;
+	cursor: pointer;
+}
+.go_buttonn {
+	background-color:#f2f2f2;
+	border:1px solid #006699;
+	color:#cc0000;
+	padding:2px 6px 2px 6px;
+	cursor:pointer;
+	position:absolute;
+	margin-top:-1px;
+}
+.total {
+	float:right;
+	font-family:arial;
+	color:#999;
+	margin-right:102px;
+	position: relative;
+	bottom:3px;
+}
+.editbox {
+	display:none;
+}
+td, th {
+}
+.editbox {
+}
+.editboxx {
+	display:none;
+}
+td, th {
+}
+.editboxx {
+}

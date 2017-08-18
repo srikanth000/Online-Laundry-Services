@@ -1,0 +1,27 @@
+SMAP
+addbranch_jsp.java
+JSP
+*S JSP
+*F
++ 0 addbranch.jsp
+addbranch.jsp
++ 1 header.jsp
+includes/header.jsp
++ 2 adminlistt.jsp
+adminlistt.jsp
++ 3 footer.jsp
+includes/footer.jsp
+*L
+1,42:52
+1#1,47:94
+42#0,3:140
+1#2,26:143
+44#0,32:168
+75,2:200
+77:202,6
+78:208
+79,9:210
+87,21:219
+1#3,4:240
+107#0:243
+*E

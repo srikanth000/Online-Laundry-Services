@@ -1,0 +1,43 @@
+SMAP
+addlocation_jsp.java
+JSP
+*S JSP
+*F
++ 0 connection.jsp
+connection.jsp
++ 1 addlocation.jsp
+addlocation.jsp
++ 2 header.jsp
+includes/header.jsp
++ 3 adminlistt.jsp
+includes/adminlistt.jsp
++ 4 footer.jsp
+includes/footer.jsp
+*L
+1:53
+3,5:55
+1#1,114:60
+3#2,5:175
+7,4:180
+10,3:184
+12:187
+13:188,3
+14,2:191
+16,2:194
+17,48:196
+114#1,3:243
+1#3,26:246
+116#1,19:271
+134,4:290
+138,2:294,3
+140,5:300
+145,3:306
+147,26:309
+172,3:335
+175,2:338,3
+177,3:344
+179,3:347
+181,36:350
+1#4,4:386
+216#1:389
+*E

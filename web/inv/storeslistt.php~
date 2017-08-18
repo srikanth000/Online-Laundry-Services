@@ -1,0 +1,15 @@
+<ul>
+                            <li><a href="../welcomestores.php">Dashboard</a></li>
+                            <li><a href="invoice.php">Add Custumer</a></li>
+                            <li><a href="../viewcustumers.php">View Custumers</a></li>
+                                <li><a href="../nr.php">Delivered List</a></li>
+                           <li><a href="../nc.php">Delivery List</a></li>
+<li><a href="../cll.php">Confirmed List</a></li>
+  <li><a href="../pl.php">Pending List</a></li>
+ <li><a href="../wc.php">Wrong Count</a></li>
+ <li><a href="../cc.php">Pending Delivery</a></li>
+ <li><a href="../del.php">Today Delivery</a></li>
+                            <li><a href="../viewinvoices.php">View Invoices</a></li>
+              <li><a href="../todayinvoices.php">Today Invoices</a></li>
+             
+                        </ul>

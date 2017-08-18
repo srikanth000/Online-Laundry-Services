@@ -1,0 +1,18 @@
+SMAP
+admincl_jsp.java
+JSP
+*S JSP
+*F
++ 0 admincl.jsp
+admincl.jsp
++ 1 storeheader.jsp
+includes/storeheader.jsp
++ 2 storeslistt.jsp
+storeslistt.jsp
+*L
+1,28:50
+1#1,49:78
+28#0,3:126
+1#2,21:129
+30#0,149:149
+*E

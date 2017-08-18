@@ -1,0 +1,18 @@
+SMAP
+admindeshboard_jsp.java
+JSP
+*S JSP
+*F
++ 0 admindeshboard.jsp
+admindeshboard.jsp
++ 1 header.jsp
+includes/header.jsp
++ 2 adminlistt.jsp
+includes/adminlistt.jsp
+*L
+1,11:51
+1#1,47:62
+11#0,3:108
+1#2,26:111
+13#0,2:136
+*E

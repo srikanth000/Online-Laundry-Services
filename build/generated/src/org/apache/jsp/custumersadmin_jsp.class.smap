@@ -1,0 +1,19 @@
+SMAP
+custumersadmin_jsp.java
+JSP
+*S JSP
+*F
++ 0 custumersadmin.jsp
+custumersadmin.jsp
++ 1 footer.jsp
+includes/footer.jsp
+*L
+1,47:50
+47,3:97
+50,5:100,3
+55,2:115
+57,2:118
+58,6:120
+1#1,4:126
+63#0:129
+*E

@@ -1,0 +1,172 @@
+@font-face {
+    font-family: 'Lato-Lig-webfont';
+    src: url('../lato/Lato-Lig-webfont.eot');
+    src: url('../lato/Lato-Lig-webfont.eot') format('embedded-opentype'),
+         url('../lato/Lato-Lig-webfont.woff2') format('woff2'),
+         url('../lato/Lato-Lig-webfont.woff') format('woff'),
+         url('../lato/Lato-Lig-webfont.ttf') format('truetype'),
+         url('../lato/Lato-Lig-webfont.svg#Lato-Lig-webfont') format('svg');
+}
+@font-face {
+    font-family: 'Lato-Reg-webfont';
+    src: url('../lato/Lato-Reg-webfont.eot');
+    src: url('../lato/Lato-Reg-webfont.eot') format('embedded-opentype'),
+         url('../lato/Lato-Reg-webfont.woff2') format('woff2'),
+         url('../lato/Lato-Reg-webfont.woff') format('woff'),
+         url('../lato/Lato-Reg-webfont.ttf') format('truetype'),
+         url('../lato/Lato-Reg-webfont.svg#Lato-Reg-webfont') format('svg');
+	font-weight:lighter;	 
+}
+body {
+margin:0; padding:0; background-color:#5481DF;
+}
+input[type=text], input[type=password], input[type=submit]{
+width: 100%;
+height: 45px;
+border: 1px solid #dbd9d9;
+-webkit-border-radius: 3px;
+-moz-border-radius: 3px;
+border-radius: 3px;
+padding: 0 13px;
+margin: 0 0 6px;
+color: #434343;
+outline: 0;
+-webkit-box-shadow: none;
+-moz-box-shadow: none;
+box-shadow: none;
+-webkit-box-sizing: border-box;
+-moz-box-sizing: border-box;
+-ms-box-sizing: border-box;
+box-sizing: border-box;
+font-family: 'Lato-Reg-webfont';
+font-size:16px;
+font-weight:lighter;
+}
+input[type=submit] {
+background-color:#ec008c;
+color:#fff;
+font-family: 'Lato-Lig-webfont';
+font-size:18px;
+cursor:pointer;
+transition:all 1s ease-in;
+-moz-transition:all .50s ease-in;
+-webkit-transition:all .50s ease-in;
+-ms-transition:all .50s ease-in;
+box-shadow:0 4px 0px 0px #c40075; 
+border:0; 
+margin: 8px 0 14px;
+}
+input[type=submit]:hover {
+background-color:#c40075; 
+}
+h2{
+font-size:35px;
+text-align:center;
+color:#2dbacc;
+margin:0px 0 5px;
+font-family: 'Lato-Lig-webfont';
+text-shadow:0 2px 0 #188b9e; 
+font-weight:300px;
+}
+h3 {
+font-size:22px;
+text-align:center;
+font-family: 'Lato-Lig-webfont';
+color:#333;
+width:320px;
+margin:15px auto 25px;
+line-height:28px;
+font-weight:lighter;
+}
+.loginwrap {
+width:490px;
+margin:auto;
+text-align:center;
+
+}
+.loginwrap img.logo {
+display:inline-block;
+}
+.login {
+width:450px;
+margin:auto;
+background-color:#27a1b1;
+border-radius:10px;
+}
+.loginhead {
+padding-top:15px;
+text-align:center;
+}
+.loginbody {
+padding:30px 40px 20px;
+}
+.blk {
+display:block;
+font-size:13px;
+color:#333;
+padding-bottom:7px;
+text-decoration:none;
+font-family: 'Lato-Lig-webfont';
+}
+.tl {
+text-align:left;
+}
+.tr {
+text-align:right;
+}
+.fl {
+margin-right:20px;
+float:left;
+}
+.fr {
+float:right;
+}
+.clearfix:after {
+display:block;
+content:'';
+height:0;
+clear:both;
+}
+.loginfooter {
+padding:10px 7px 10px 0;
+background-color:#188b9e;
+border-radius:0 0 10px 10px;
+}
+.loginfooter ul {
+float:right;
+margin:0;
+}
+.loginfooter li {
+list-style:none;
+display:block;
+padding:0 5px;
+border-right:1px solid #fff;
+float:left;
+line-height:0;
+}
+.loginfooter li.last {
+border:0;
+}
+.loginfooter li a {
+color:#fff;
+text-decoration:none;
+font-family: 'Lato-Lig-webfont';
+font-size:12px;
+line-height:10px;
+}
+.loginfooter li a:hover {
+color:#ccc;
+}
+.rays	{ 
+	background:url(img/rays.png) 0 0 no-repeat; 
+	position:absolute; 
+	top:0; 
+	left:0; 
+	width:490px; 
+	height:600px; 
+	/*transform:scale(1) rotate(16.768rad);*/
+}.error{
+    padding: 10px;
+    color: #ff0000;
+     font-family: 'Lato-Reg-webfont';
+}
