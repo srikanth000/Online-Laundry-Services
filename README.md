@@ -10,9 +10,14 @@ managers who can easily reach the customers and their requests.
 
 **The customer can choose the Store according to his location.
 
-Steps to run the project:
+# Steps to run the project:
 
-# REQUIRED files:
+1.Import the project into netbeans IDE.
+2.Run the project.
+3.If any get errors related to the packages.Please import the required packages.
+
+
+# REQUIRED Softwares:
 
 1.NetBeans IDE 8.0.2
 
